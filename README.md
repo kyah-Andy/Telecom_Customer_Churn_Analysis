@@ -32,7 +32,9 @@ Users can dynamically filter the entire dashboard by:
 * **Data Source:** [Kaggle - Telco Customer Churn](https://www.kaggle.com/datasets/mosapabdelghany/telcom-customer-churn-dataset/data)
 * **Software:** Microsoft Excel
 * **Techniques:** Data Cleaning, Pivot Tables, Pivot Charts, Slicers, and Conditional Formatting.
-
+---
+## 🖥️ Preview
+![dashboard Preview](image/telco_churn_analysis.png)
 ---
 
 ## 🚀 How to Use
